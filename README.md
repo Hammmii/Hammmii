@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/dayyan-ahmad](https://github.com/Hammmii)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad-sikandar8191" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/hammad-sikandar8191](https://github.com/Hammmii)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad-sikandar8191" height="30" width="40" /></a>
 </p>
 
 ### 📄 [View My CV](https://drive.google.com/file/d/1uO3fAiy2ii5abAwLBCccu2s6Bzbx9DA3/view?usp=sharing)
